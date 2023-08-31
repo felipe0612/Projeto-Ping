@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300;400;500;600;700&display=swap');
+
+
+:root {
+    --roxo-color: #CDA7FF;
+    --darkb-color: #1D438A;
+}
+
+body {
+    background-color: #615968;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.roxo {
+    color: var(--roxo-color);
+}
+
+.bi-person-circle {
+    font-size: 22px;
+}
+
+.img-fluid {
+    display: flex;
+    justify-content: center;
+    width: 3000px;
+    height: 330px;
+ 
+}
+
+.text-1 {
+    color: #fff;
+    margin-top: 25px;
+    /* text-decoration: solid; */
+}
+
+.btn {
+    margin-top: 25px;
+   border-radius: 3;
+   color: #fff;
+   font-size: 30px;
+    margin-bottom: 20px;
+}
+
+.comprar {
+    color: #fff;
+}
+
+.container2 {
+    background-color: rgba(0, 0, 0, 0.407);
+    height: 500px;
+}
